@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+}
+
+.signup {
+  display: grid;
+  place-items: center;
+  /* width: 70%; */
+}
